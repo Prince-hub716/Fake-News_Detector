@@ -128,8 +128,7 @@ App will open in your browser.
 ## 👤 Author
 
 Prince 
-Connect me on Linkedin : www.linkedin.com/in/
-prince-hub716/
+Connect me on Linkedin : www.linkedin.com/in/prince-hub716/
 
 
 ---
